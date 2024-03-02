@@ -6,9 +6,11 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 For this project, I design the tables to hold the data from the CSV files, imported the CSV files into a SQL database, and then answer questions about the data. This will require performing data modeling, data engineering, and data analysis, respectively.
 
-Here is the desing of the data base for Pewlett Hackard:
+Here is the desin of the data base for Pewlett Hackard:
 
 ![Pewlett Hackard Data Modeling](https://github.com/myhre062/sql-challenge/blob/main/EmployeeSQL/QuickDBD-export.png)
+
+(Checkout this [file](https://github.com/myhre062/sql-challenge/blob/main/EmployeeSQL/data/quickDBD.txt) to copy and past it into [QuickDBD](https://app.quickdatabasediagrams.com/#/) website to see it in action.)
 
 ## Instructions
 
