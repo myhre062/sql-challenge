@@ -8,7 +8,7 @@ For this project, I design the tables to hold the data from the CSV files, impor
 
 Here is the desing of the data base for Pewlett Hackard:
 
-![Pewlett Hackard Data Modeling](https://github.com/myhre062/sql-challenge/blob/main/EmployeeSQL/data/QuickDBD-export.svg)
+![Pewlett Hackard Data Modeling](https://github.com/myhre062/sql-challenge/blob/main/EmployeeSQL/QuickDBD-export.png)
 
 ## Instructions
 
